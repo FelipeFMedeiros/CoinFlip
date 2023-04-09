@@ -64,7 +64,7 @@ function updateStatsReset() {
   document.querySelector("#Coroa-count").textContent = `Coroa: ${Coroa}`;
 }, 100);
   setTimeout(function () {
-    stats.style.animation = "stats 2.5s forwards";
+    stats.style.animation = "stats- 2.5s forwards";
   }, 100);
 }
 

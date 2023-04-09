@@ -156,6 +156,23 @@ button {
   }
 }
 
+@keyframes stats- {
+  0% {
+    font-size: 16px;
+    color: #424ae0;
+  }
+  50% {
+    font-size: 13px;
+    color: #424ae0;
+  }
+  100% {
+    color: #101020;
+    font-weight: 500;
+    line-height: 25px;
+    font-size: 16px;
+  }
+}
+
 .footer {
   background-color: #101020;
   color: #fff;
