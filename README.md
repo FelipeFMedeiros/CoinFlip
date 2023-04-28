@@ -11,10 +11,3 @@
   <img align="left" alt="BR-PIC" height="40em" width="40" src="https://img.icons8.com/color/256/usa-circular.png"/>
 </div> 𝐄𝐍
 <p>This is a site for the popular "heads or tails" game. The project is Brazilian Portuguese.</p>
-
-<br>
-
-<div>
-  <img align="left" alt="BR-PIC" height="40em" width="40" src="https://img.icons8.com/color/256/spain2-circular.png"/>
-</div> 𝐄𝐒
-<p>Este es un sitio para el popular juego "cara o cruz". El proyecto es portugués brasileño.p>
