@@ -3,11 +3,11 @@
 <div>
   <img align="left" alt="BR-PIC" height="40em" width="40" src="https://img.icons8.com/color/256/brazil-circular.png"/>
 </div> 𝐏𝐓𝐛𝐫
-<p>Este é um site do jogo popular "cara ou coroa". O projeto está português brasileiro.</p>
+<p>Este é um site do jogo popular "cara ou coroa". O projeto está português brasileiro. Você pode visualizar este projeto no link em "sobre".</p>
 
 <br>
 
 <div>
   <img align="left" alt="BR-PIC" height="40em" width="40" src="https://img.icons8.com/color/256/usa-circular.png"/>
 </div> 𝐄𝐍
-<p>This is a site for the popular "heads or tails" game. The project is Brazilian Portuguese.</p>
+<p>This is a site for the popular "heads or tails" game. The project is Brazilian Portuguese. You can preview this project on the link under "about".</p>
